@@ -11,19 +11,12 @@ In this the skin images are given into the system for processing. The input imag
 <h2> Dataset </h2>
 We compiled our dataset by collecting images from different websites specific to skin diseases. The database has 80 images of every disease (20 Normal images, 20 Melanoma images, 20 Eczema images and 20 Psoriasis images).
 Fig 1 shows some of the sample images from our dataset.
-<img src=" "> 
-<img src=" "> 
+<img src="https://github.com/Jafar-Abdollahi/Diagnosis-of-skin-disease-using-machine-vision/blob/main/processes-11-01003-g001.png"> 
+<img src="https://github.com/Jafar-Abdollahi/Diagnosis-of-skin-disease-using-machine-vision/blob/main/diagnostics-11-01390-g001.png"> 
 
 
 <h2> Methods </h2>
 In this section, the methodology of the proposed system for detection, extraction and classification of skin diseases images is described. The system will help significantly in the detection of melanoma, Eczema and Psoriasis. The whole architecture can be divided into several modules comprising of preprocessing, feature extraction, and classification. The block diagram of the system is shown in Fig 2.
-
-<img src=" "> 
-
-
-<h2> GUI </h2>
-<img src=" "> 
-
 
 <h2> Conlusion </h2>
 The development of AI-based diagnoses of skin lesions is a research area of great interest, which benefits from appropriate methodologies and abundant datasets that are continuously updated. Despite the progress made in the last decade, many aspects still require further investigation and improvement.
